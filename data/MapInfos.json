@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Plataforma da Estação","order":2,"parentId":2,"scrollX":811,"scrollY":460,"quick":false},
+{"id":2,"expanded":true,"name":"Loja de Conveniência","order":1,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
+{"id":3,"expanded":true,"name":"Vila de Pescadores","order":3,"parentId":1,"scrollX":2048,"scrollY":800,"quick":true}
+]
