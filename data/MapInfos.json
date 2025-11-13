@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Plataforma da Estação","order":1,"parentId":0,"scrollX":811,"scrollY":460,"quick":true},
+{"id":1,"expanded":true,"name":"Plataforma da Estação","order":1,"parentId":0,"scrollX":811,"scrollY":457,"quick":true},
 {"id":2,"expanded":true,"name":"Loja de Conveniência","order":2,"parentId":1,"scrollX":811,"scrollY":449,"quick":false},
 {"id":3,"expanded":true,"name":"Acampamento (Dia)","order":3,"parentId":2,"scrollX":1275,"scrollY":524,"quick":false},
 {"id":4,"expanded":true,"name":"Entrada da Mansão (Noite)","order":5,"parentId":5,"scrollX":811,"scrollY":804,"quick":false},
